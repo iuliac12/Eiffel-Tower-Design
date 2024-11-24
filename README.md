@@ -1,10 +1,10 @@
-##  Eiffel-Tower-Design
+#  Eiffel-Tower-Design
 
-# Description
+## Description
 
 This project focuses on creating a detailed 3D model of the Eiffel Tower using AutoCAD, showcasing advanced architectural and structural design skills. The project involves precise drafting of the tower's intricate framework, including its lattice structure and iconic design elements. By utilizing AutoCAD's powerful 2D and 3D tools, the project emphasizes accuracy, scale, and aesthetic representation of the real-world landmark.
 
-# Design Process
+## Design Process
 
 <img src="https://github.com/user-attachments/assets/1fe707f3-19b2-427b-a857-6eab861c6eab" alt="setup1" width="200" height="200">
 <img src="https://github.com/user-attachments/assets/15d5fc78-3eec-4bfb-9b09-0a0efb5b3ca2" alt="setup2" width="200" height="200">
@@ -22,6 +22,6 @@ This category showcases the stages of conceptualizing and developing the design,
 
 
 
-# Completed Design
+## Completed Design
 
 ![p2](https://github.com/user-attachments/assets/2be90a3d-87c6-499c-8ff9-6ab4a342f910)
